@@ -25,8 +25,8 @@
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "Pherenice1125",
+        "url": "https://github.com/Pherenice1125"
       }
     ]
   },
@@ -92,7 +92,15 @@
       "releaseDate": "2024-02-17",
       "website": "http://academicpages.github.io/files/paper3.pdf",
       "summary": "This paper is about fixing template issue #693."
+    },
+    {
+      "name": "Mixlora: Enhancing large language models fine-tuning with lora-based mixture of experts",
+      "publisher": "Arxiv",
+      "releaseDate": "2024-4-22",
+      "website": "https://arxiv.org/abs/2404.15159",
+      "summary": "This paper is about the number 5. The number 6 is left for future work."
     }
+
   ],
   "presentations": [
     {
