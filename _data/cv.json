@@ -87,10 +87,10 @@
       "summary": "This paper is about the number 3. The number 4 is left for future work."
     },
     {
-      "name": "Paper Title Number 4",
-      "publisher": "GitHub Journal of Bugs",
-      "releaseDate": "2024-02-17",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
+      "name": "DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism",
+      "publisher": "Arxiv",
+      "releaseDate": "2025-04-1",
+      "website": "https://arxiv.org/abs/2504.00661",
       "summary": "This paper is about fixing template issue #693."
     },
     {
