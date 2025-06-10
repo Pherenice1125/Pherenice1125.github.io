@@ -66,39 +66,22 @@
   "references": [],
   "publications": [
     {
-      "name": "Paper Title Number 1",
-      "publisher": "Journal 1",
-      "releaseDate": "2009-10-01",
-      "website": "http://academicpages.github.io/files/paper1.pdf",
-      "summary": "This paper is about the number 1. The number 2 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 2",
-      "publisher": "Journal 1",
-      "releaseDate": "2010-10-01",
-      "website": "http://academicpages.github.io/files/paper2.pdf",
-      "summary": "This paper is about the number 2. The number 3 is left for future work."
-    },
-    {
-      "name": "Paper Title Number 3",
-      "publisher": "Journal 1",
-      "releaseDate": "2015-10-01",
-      "website": "http://academicpages.github.io/files/paper3.pdf",
-      "summary": "This paper is about the number 3. The number 4 is left for future work."
+      "name":"MixLoRA: Enhancing Supervised Fine-Tuning of Language Models with Efficient Mixture of LoRAs.",
+      "summary":"Submitted to ICML 2025, currently under revision."
     },
     {
       "name": "DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism",
       "publisher": "Arxiv",
       "releaseDate": "2025-04-1",
       "website": "https://arxiv.org/abs/2504.00661",
-      "summary": "This paper is about fixing template issue #693."
+      "summary": "DynMoLE, a new method combining LoRA and Mixture of Experts, uses a dynamic routing strategy and an auxiliary Tsallis entropy loss to improve LLM fine-tuning, achieving significantly better performance and faster convergence on commonsense reasoning tasks compared to LoRA and MoLA."
     },
     {
       "name": "Mixlora: Enhancing large language models fine-tuning with lora-based mixture of experts",
       "publisher": "Arxiv",
       "releaseDate": "2024-4-22",
       "website": "https://arxiv.org/abs/2404.15159",
-      "summary": "This paper is about the number 5. The number 6 is left for future work."
+      "summary": "MixLoRA proposes a resource-efficient sparse Mixture-of-Experts (MoE) model built on LoRA to enhance performance in multi-task learning, achieving a 9% accuracy improvement and reducing GPU memory consumption by 40% and token computation latency by 30%."
     }
 
   ],
