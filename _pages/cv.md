@@ -13,7 +13,7 @@ redirect_from:
 ---
 **Department of Software Engineering, Sichuan University** | Sichuan, China
 B.E. in Software Engineering | 2022 - 2026 (expected)
-* Advisor: Prof. Mingjie Tang
+* Advisor: [Prof. Mingjie Tang](https://merlintang.github.io)
 * Research area: Large Language Models, Fine-tuning algorithm
 
 ## Publications
