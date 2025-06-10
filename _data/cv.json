@@ -66,10 +66,6 @@
   "references": [],
   "publications": [
     {
-      "name":"MixLoRA: Enhancing Supervised Fine-Tuning of Language Models with Efficient Mixture of LoRAs.",
-      "summary":"Submitted to ICML 2025, currently under revision."
-    },
-    {
       "name": "DynMoLE: Boosting Mixture of LoRA Experts Fine-Tuning with a Hybrid Routing Mechanism",
       "publisher": "Arxiv",
       "releaseDate": "2025-04-1",
